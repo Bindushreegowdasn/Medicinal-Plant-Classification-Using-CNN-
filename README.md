@@ -30,6 +30,3 @@ A custom CNN model is built using **TensorFlow/Keras**, trained using image prep
 - Scikit-learn  
 - Google Colab  
 
----
-
-## 📂 Project Structure
